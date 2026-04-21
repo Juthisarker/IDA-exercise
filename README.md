@@ -1,1 +1,1 @@
-Some R exercise's solution to my IDA course
+Some R exercises and Python solution to my IDA course
